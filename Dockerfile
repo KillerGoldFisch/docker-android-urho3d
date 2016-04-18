@@ -1,4 +1,4 @@
-FROM killergoldfisch:android-ndk
+FROM killergoldfisch/android-ndk
 
 # ------------------------------------------------------
 # --- Environments and base directories
